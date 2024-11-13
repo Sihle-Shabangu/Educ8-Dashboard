@@ -56,7 +56,7 @@ const style = {
 
 const CountChart = () => {
   return (
-    <div>
+    <div className="flex justify-between items-center">
       {/* title */}
       <div>
         <h1>
